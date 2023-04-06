@@ -1,0 +1,32 @@
+header {
+    background-color: #274c77;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+main {
+    flex: 1 0 auto;
+    background-color: #b7e4c7;
+}
+
+.orignalstring {
+    background-color: #274c77;
+}
+
+.buttons .btn {
+    margin-bottom: 8px;
+    min-width: 50%;
+}
+
+
+.buttons .btn:last-child {
+    margin-bottom: 0;
+}
+
+footer {
+    background-color: #274c77;
+}
